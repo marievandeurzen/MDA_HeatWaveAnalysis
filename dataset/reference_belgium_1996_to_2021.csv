@@ -1,5 +1,5 @@
-country,QUARTER,TEMPMAX_90th
-belgium,1,12.696999999999997
-belgium,2,23.9
-belgium,3,27.1
-belgium,4,17.07
+country,quarters,TEMPMAX_90th
+belgium,Q1,12.696999999999997
+belgium,Q2,23.9
+belgium,Q3,27.1
+belgium,Q4,17.07

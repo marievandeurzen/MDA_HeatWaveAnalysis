@@ -1,5 +1,5 @@
-country,QUARTER,TEMPMAX_90th
-netherland,1,10.74
-netherland,2,21.18
-netherland,3,24.4
-netherland,4,15.931000000000003
+country,quarters,TEMPMAX_90th
+netherland,Q1,10.74
+netherland,Q2,21.18
+netherland,Q3,24.4
+netherland,Q4,15.931000000000003

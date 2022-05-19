@@ -1,0 +1,649 @@
+REGION,YEAR,quarters,COD,deathcount,country
+2000,2009,Q1,Diseases of the circulatory system,5498,belgium
+2000,2009,Q1,Diseases of the nervous system,622,belgium
+2000,2009,Q1,Diseases of the respiratory system,2361,belgium
+2000,2009,Q1,Diseases of the skin and subcutaneous tissue,37,belgium
+2000,2009,Q1,Mental and behavioural disorders,709,belgium
+2000,2009,Q1,Neoplasms,3981,belgium
+2000,2009,Q2,Diseases of the circulatory system,4419,belgium
+2000,2009,Q2,Diseases of the nervous system,491,belgium
+2000,2009,Q2,Diseases of the respiratory system,1355,belgium
+2000,2009,Q2,Diseases of the skin and subcutaneous tissue,26,belgium
+2000,2009,Q2,Mental and behavioural disorders,527,belgium
+2000,2009,Q2,Neoplasms,3989,belgium
+2000,2009,Q3,Diseases of the circulatory system,4060,belgium
+2000,2009,Q3,Diseases of the nervous system,477,belgium
+2000,2009,Q3,Diseases of the respiratory system,1151,belgium
+2000,2009,Q3,Diseases of the skin and subcutaneous tissue,39,belgium
+2000,2009,Q3,Mental and behavioural disorders,559,belgium
+2000,2009,Q3,Neoplasms,4032,belgium
+2000,2009,Q4,Diseases of the circulatory system,4781,belgium
+2000,2009,Q4,Diseases of the nervous system,603,belgium
+2000,2009,Q4,Diseases of the respiratory system,1362,belgium
+2000,2009,Q4,Diseases of the skin and subcutaneous tissue,49,belgium
+2000,2009,Q4,Mental and behavioural disorders,674,belgium
+2000,2009,Q4,Neoplasms,4235,belgium
+2000,2010,Q1,Diseases of the circulatory system,5153,belgium
+2000,2010,Q1,Diseases of the nervous system,667,belgium
+2000,2010,Q1,Diseases of the respiratory system,1867,belgium
+2000,2010,Q1,Diseases of the skin and subcutaneous tissue,28,belgium
+2000,2010,Q1,Mental and behavioural disorders,700,belgium
+2000,2010,Q1,Neoplasms,4158,belgium
+2000,2010,Q2,Diseases of the circulatory system,4459,belgium
+2000,2010,Q2,Diseases of the nervous system,557,belgium
+2000,2010,Q2,Diseases of the respiratory system,1433,belgium
+2000,2010,Q2,Diseases of the skin and subcutaneous tissue,30,belgium
+2000,2010,Q2,Mental and behavioural disorders,523,belgium
+2000,2010,Q2,Neoplasms,4015,belgium
+2000,2010,Q3,Diseases of the circulatory system,4313,belgium
+2000,2010,Q3,Diseases of the nervous system,507,belgium
+2000,2010,Q3,Diseases of the respiratory system,1202,belgium
+2000,2010,Q3,Diseases of the skin and subcutaneous tissue,40,belgium
+2000,2010,Q3,Mental and behavioural disorders,532,belgium
+2000,2010,Q3,Neoplasms,4114,belgium
+2000,2010,Q4,Diseases of the circulatory system,4817,belgium
+2000,2010,Q4,Diseases of the nervous system,567,belgium
+2000,2010,Q4,Diseases of the respiratory system,1540,belgium
+2000,2010,Q4,Diseases of the skin and subcutaneous tissue,31,belgium
+2000,2010,Q4,Mental and behavioural disorders,655,belgium
+2000,2010,Q4,Neoplasms,4245,belgium
+2000,2011,Q1,Diseases of the circulatory system,4765,belgium
+2000,2011,Q1,Diseases of the nervous system,617,belgium
+2000,2011,Q1,Diseases of the respiratory system,1713,belgium
+2000,2011,Q1,Diseases of the skin and subcutaneous tissue,48,belgium
+2000,2011,Q1,Mental and behavioural disorders,639,belgium
+2000,2011,Q1,Neoplasms,4154,belgium
+2000,2011,Q2,Diseases of the circulatory system,4323,belgium
+2000,2011,Q2,Diseases of the nervous system,537,belgium
+2000,2011,Q2,Diseases of the respiratory system,1440,belgium
+2000,2011,Q2,Diseases of the skin and subcutaneous tissue,31,belgium
+2000,2011,Q2,Mental and behavioural disorders,588,belgium
+2000,2011,Q2,Neoplasms,4014,belgium
+2000,2011,Q3,Diseases of the circulatory system,3960,belgium
+2000,2011,Q3,Diseases of the nervous system,586,belgium
+2000,2011,Q3,Diseases of the respiratory system,1149,belgium
+2000,2011,Q3,Diseases of the skin and subcutaneous tissue,30,belgium
+2000,2011,Q3,Mental and behavioural disorders,564,belgium
+2000,2011,Q3,Neoplasms,4127,belgium
+2000,2011,Q4,Diseases of the circulatory system,4703,belgium
+2000,2011,Q4,Diseases of the nervous system,634,belgium
+2000,2011,Q4,Diseases of the respiratory system,1614,belgium
+2000,2011,Q4,Diseases of the skin and subcutaneous tissue,21,belgium
+2000,2011,Q4,Mental and behavioural disorders,663,belgium
+2000,2011,Q4,Neoplasms,4349,belgium
+2000,2012,Q1,Diseases of the circulatory system,5308,belgium
+2000,2012,Q1,Diseases of the nervous system,850,belgium
+2000,2012,Q1,Diseases of the respiratory system,2291,belgium
+2000,2012,Q1,Diseases of the skin and subcutaneous tissue,34,belgium
+2000,2012,Q1,Mental and behavioural disorders,861,belgium
+2000,2012,Q1,Neoplasms,4311,belgium
+2000,2012,Q2,Diseases of the circulatory system,4250,belgium
+2000,2012,Q2,Diseases of the nervous system,607,belgium
+2000,2012,Q2,Diseases of the respiratory system,1453,belgium
+2000,2012,Q2,Diseases of the skin and subcutaneous tissue,32,belgium
+2000,2012,Q2,Mental and behavioural disorders,758,belgium
+2000,2012,Q2,Neoplasms,4103,belgium
+2000,2012,Q3,Diseases of the circulatory system,3758,belgium
+2000,2012,Q3,Diseases of the nervous system,624,belgium
+2000,2012,Q3,Diseases of the respiratory system,1119,belgium
+2000,2012,Q3,Diseases of the skin and subcutaneous tissue,25,belgium
+2000,2012,Q3,Mental and behavioural disorders,677,belgium
+2000,2012,Q3,Neoplasms,4112,belgium
+2000,2012,Q4,Diseases of the circulatory system,4582,belgium
+2000,2012,Q4,Diseases of the nervous system,736,belgium
+2000,2012,Q4,Diseases of the respiratory system,1475,belgium
+2000,2012,Q4,Diseases of the skin and subcutaneous tissue,30,belgium
+2000,2012,Q4,Mental and behavioural disorders,783,belgium
+2000,2012,Q4,Neoplasms,4189,belgium
+2000,2013,Q1,Diseases of the circulatory system,5166,belgium
+2000,2013,Q1,Diseases of the nervous system,870,belgium
+2000,2013,Q1,Diseases of the respiratory system,2128,belgium
+2000,2013,Q1,Diseases of the skin and subcutaneous tissue,36,belgium
+2000,2013,Q1,Mental and behavioural disorders,977,belgium
+2000,2013,Q1,Neoplasms,4400,belgium
+2000,2013,Q2,Diseases of the circulatory system,4537,belgium
+2000,2013,Q2,Diseases of the nervous system,734,belgium
+2000,2013,Q2,Diseases of the respiratory system,1500,belgium
+2000,2013,Q2,Diseases of the skin and subcutaneous tissue,36,belgium
+2000,2013,Q2,Mental and behavioural disorders,844,belgium
+2000,2013,Q2,Neoplasms,4158,belgium
+2000,2013,Q3,Diseases of the circulatory system,3935,belgium
+2000,2013,Q3,Diseases of the nervous system,652,belgium
+2000,2013,Q3,Diseases of the respiratory system,1126,belgium
+2000,2013,Q3,Diseases of the skin and subcutaneous tissue,36,belgium
+2000,2013,Q3,Mental and behavioural disorders,708,belgium
+2000,2013,Q3,Neoplasms,4072,belgium
+2000,2013,Q4,Diseases of the circulatory system,4510,belgium
+2000,2013,Q4,Diseases of the nervous system,722,belgium
+2000,2013,Q4,Diseases of the respiratory system,1332,belgium
+2000,2013,Q4,Diseases of the skin and subcutaneous tissue,38,belgium
+2000,2013,Q4,Mental and behavioural disorders,845,belgium
+2000,2013,Q4,Neoplasms,4219,belgium
+2000,2014,Q1,Diseases of the circulatory system,4722,belgium
+2000,2014,Q1,Diseases of the nervous system,706,belgium
+2000,2014,Q1,Diseases of the respiratory system,1629,belgium
+2000,2014,Q1,Diseases of the skin and subcutaneous tissue,36,belgium
+2000,2014,Q1,Mental and behavioural disorders,819,belgium
+2000,2014,Q1,Neoplasms,4211,belgium
+2000,2014,Q2,Diseases of the circulatory system,4239,belgium
+2000,2014,Q2,Diseases of the nervous system,629,belgium
+2000,2014,Q2,Diseases of the respiratory system,1299,belgium
+2000,2014,Q2,Diseases of the skin and subcutaneous tissue,28,belgium
+2000,2014,Q2,Mental and behavioural disorders,690,belgium
+2000,2014,Q2,Neoplasms,4205,belgium
+2000,2014,Q3,Diseases of the circulatory system,3861,belgium
+2000,2014,Q3,Diseases of the nervous system,662,belgium
+2000,2014,Q3,Diseases of the respiratory system,1131,belgium
+2000,2014,Q3,Diseases of the skin and subcutaneous tissue,40,belgium
+2000,2014,Q3,Mental and behavioural disorders,743,belgium
+2000,2014,Q3,Neoplasms,4097,belgium
+2000,2014,Q4,Diseases of the circulatory system,4542,belgium
+2000,2014,Q4,Diseases of the nervous system,694,belgium
+2000,2014,Q4,Diseases of the respiratory system,1375,belgium
+2000,2014,Q4,Diseases of the skin and subcutaneous tissue,31,belgium
+2000,2014,Q4,Mental and behavioural disorders,831,belgium
+2000,2014,Q4,Neoplasms,4367,belgium
+2000,2015,Q1,Diseases of the circulatory system,5541,belgium
+2000,2015,Q1,Diseases of the nervous system,855,belgium
+2000,2015,Q1,Diseases of the respiratory system,2667,belgium
+2000,2015,Q1,Diseases of the skin and subcutaneous tissue,39,belgium
+2000,2015,Q1,Mental and behavioural disorders,1123,belgium
+2000,2015,Q1,Neoplasms,4339,belgium
+2000,2015,Q2,Diseases of the circulatory system,4391,belgium
+2000,2015,Q2,Diseases of the nervous system,687,belgium
+2000,2015,Q2,Diseases of the respiratory system,1470,belgium
+2000,2015,Q2,Diseases of the skin and subcutaneous tissue,41,belgium
+2000,2015,Q2,Mental and behavioural disorders,825,belgium
+2000,2015,Q2,Neoplasms,4069,belgium
+2000,2015,Q3,Diseases of the circulatory system,3953,belgium
+2000,2015,Q3,Diseases of the nervous system,670,belgium
+2000,2015,Q3,Diseases of the respiratory system,1038,belgium
+2000,2015,Q3,Diseases of the skin and subcutaneous tissue,32,belgium
+2000,2015,Q3,Mental and behavioural disorders,741,belgium
+2000,2015,Q3,Neoplasms,4143,belgium
+2000,2015,Q4,Diseases of the circulatory system,4418,belgium
+2000,2015,Q4,Diseases of the nervous system,735,belgium
+2000,2015,Q4,Diseases of the respiratory system,1440,belgium
+2000,2015,Q4,Diseases of the skin and subcutaneous tissue,34,belgium
+2000,2015,Q4,Mental and behavioural disorders,847,belgium
+2000,2015,Q4,Neoplasms,4132,belgium
+2000,2016,Q1,Diseases of the circulatory system,4772,belgium
+2000,2016,Q1,Diseases of the nervous system,834,belgium
+2000,2016,Q1,Diseases of the respiratory system,1930,belgium
+2000,2016,Q1,Diseases of the skin and subcutaneous tissue,32,belgium
+2000,2016,Q1,Mental and behavioural disorders,992,belgium
+2000,2016,Q1,Neoplasms,4232,belgium
+2000,2016,Q2,Diseases of the circulatory system,4210,belgium
+2000,2016,Q2,Diseases of the nervous system,689,belgium
+2000,2016,Q2,Diseases of the respiratory system,1488,belgium
+2000,2016,Q2,Diseases of the skin and subcutaneous tissue,55,belgium
+2000,2016,Q2,Mental and behavioural disorders,837,belgium
+2000,2016,Q2,Neoplasms,4084,belgium
+2000,2016,Q3,Diseases of the circulatory system,3811,belgium
+2000,2016,Q3,Diseases of the nervous system,722,belgium
+2000,2016,Q3,Diseases of the respiratory system,1223,belgium
+2000,2016,Q3,Diseases of the skin and subcutaneous tissue,39,belgium
+2000,2016,Q3,Mental and behavioural disorders,827,belgium
+2000,2016,Q3,Neoplasms,4211,belgium
+2000,2016,Q4,Diseases of the circulatory system,4571,belgium
+2000,2016,Q4,Diseases of the nervous system,811,belgium
+2000,2016,Q4,Diseases of the respiratory system,1592,belgium
+2000,2016,Q4,Diseases of the skin and subcutaneous tissue,38,belgium
+2000,2016,Q4,Mental and behavioural disorders,984,belgium
+2000,2016,Q4,Neoplasms,4272,belgium
+2000,2017,Q1,Diseases of the circulatory system,5196,belgium
+2000,2017,Q1,Diseases of the nervous system,950,belgium
+2000,2017,Q1,Diseases of the respiratory system,2753,belgium
+2000,2017,Q1,Diseases of the skin and subcutaneous tissue,58,belgium
+2000,2017,Q1,Mental and behavioural disorders,1224,belgium
+2000,2017,Q1,Neoplasms,4230,belgium
+2000,2017,Q2,Diseases of the circulatory system,4158,belgium
+2000,2017,Q2,Diseases of the nervous system,737,belgium
+2000,2017,Q2,Diseases of the respiratory system,1456,belgium
+2000,2017,Q2,Diseases of the skin and subcutaneous tissue,38,belgium
+2000,2017,Q2,Mental and behavioural disorders,871,belgium
+2000,2017,Q2,Neoplasms,4160,belgium
+2000,2017,Q3,Diseases of the circulatory system,3755,belgium
+2000,2017,Q3,Diseases of the nervous system,700,belgium
+2000,2017,Q3,Diseases of the respiratory system,1172,belgium
+2000,2017,Q3,Diseases of the skin and subcutaneous tissue,55,belgium
+2000,2017,Q3,Mental and behavioural disorders,805,belgium
+2000,2017,Q3,Neoplasms,4033,belgium
+2000,2017,Q4,Diseases of the circulatory system,4388,belgium
+2000,2017,Q4,Diseases of the nervous system,853,belgium
+2000,2017,Q4,Diseases of the respiratory system,1554,belgium
+2000,2017,Q4,Diseases of the skin and subcutaneous tissue,39,belgium
+2000,2017,Q4,Mental and behavioural disorders,995,belgium
+2000,2017,Q4,Neoplasms,4243,belgium
+3000,2009,Q1,Diseases of the circulatory system,3147,belgium
+3000,2009,Q1,Diseases of the nervous system,561,belgium
+3000,2009,Q1,Diseases of the respiratory system,1350,belgium
+3000,2009,Q1,Diseases of the skin and subcutaneous tissue,35,belgium
+3000,2009,Q1,Mental and behavioural disorders,288,belgium
+3000,2009,Q1,Neoplasms,2348,belgium
+3000,2009,Q2,Diseases of the circulatory system,2455,belgium
+3000,2009,Q2,Diseases of the nervous system,420,belgium
+3000,2009,Q2,Diseases of the respiratory system,907,belgium
+3000,2009,Q2,Diseases of the skin and subcutaneous tissue,30,belgium
+3000,2009,Q2,Mental and behavioural disorders,238,belgium
+3000,2009,Q2,Neoplasms,2136,belgium
+3000,2009,Q3,Diseases of the circulatory system,2336,belgium
+3000,2009,Q3,Diseases of the nervous system,394,belgium
+3000,2009,Q3,Diseases of the respiratory system,694,belgium
+3000,2009,Q3,Diseases of the skin and subcutaneous tissue,31,belgium
+3000,2009,Q3,Mental and behavioural disorders,240,belgium
+3000,2009,Q3,Neoplasms,2155,belgium
+3000,2009,Q4,Diseases of the circulatory system,2631,belgium
+3000,2009,Q4,Diseases of the nervous system,503,belgium
+3000,2009,Q4,Diseases of the respiratory system,866,belgium
+3000,2009,Q4,Diseases of the skin and subcutaneous tissue,20,belgium
+3000,2009,Q4,Mental and behavioural disorders,293,belgium
+3000,2009,Q4,Neoplasms,2284,belgium
+3000,2010,Q1,Diseases of the circulatory system,2943,belgium
+3000,2010,Q1,Diseases of the nervous system,523,belgium
+3000,2010,Q1,Diseases of the respiratory system,1153,belgium
+3000,2010,Q1,Diseases of the skin and subcutaneous tissue,30,belgium
+3000,2010,Q1,Mental and behavioural disorders,286,belgium
+3000,2010,Q1,Neoplasms,2362,belgium
+3000,2010,Q2,Diseases of the circulatory system,2575,belgium
+3000,2010,Q2,Diseases of the nervous system,459,belgium
+3000,2010,Q2,Diseases of the respiratory system,940,belgium
+3000,2010,Q2,Diseases of the skin and subcutaneous tissue,19,belgium
+3000,2010,Q2,Mental and behavioural disorders,258,belgium
+3000,2010,Q2,Neoplasms,2266,belgium
+3000,2010,Q3,Diseases of the circulatory system,2453,belgium
+3000,2010,Q3,Diseases of the nervous system,458,belgium
+3000,2010,Q3,Diseases of the respiratory system,763,belgium
+3000,2010,Q3,Diseases of the skin and subcutaneous tissue,25,belgium
+3000,2010,Q3,Mental and behavioural disorders,270,belgium
+3000,2010,Q3,Neoplasms,2329,belgium
+3000,2010,Q4,Diseases of the circulatory system,2835,belgium
+3000,2010,Q4,Diseases of the nervous system,511,belgium
+3000,2010,Q4,Diseases of the respiratory system,983,belgium
+3000,2010,Q4,Diseases of the skin and subcutaneous tissue,24,belgium
+3000,2010,Q4,Mental and behavioural disorders,260,belgium
+3000,2010,Q4,Neoplasms,2439,belgium
+3000,2011,Q1,Diseases of the circulatory system,2882,belgium
+3000,2011,Q1,Diseases of the nervous system,480,belgium
+3000,2011,Q1,Diseases of the respiratory system,1109,belgium
+3000,2011,Q1,Diseases of the skin and subcutaneous tissue,23,belgium
+3000,2011,Q1,Mental and behavioural disorders,291,belgium
+3000,2011,Q1,Neoplasms,2379,belgium
+3000,2011,Q2,Diseases of the circulatory system,2636,belgium
+3000,2011,Q2,Diseases of the nervous system,479,belgium
+3000,2011,Q2,Diseases of the respiratory system,892,belgium
+3000,2011,Q2,Diseases of the skin and subcutaneous tissue,32,belgium
+3000,2011,Q2,Mental and behavioural disorders,267,belgium
+3000,2011,Q2,Neoplasms,2243,belgium
+3000,2011,Q3,Diseases of the circulatory system,2500,belgium
+3000,2011,Q3,Diseases of the nervous system,458,belgium
+3000,2011,Q3,Diseases of the respiratory system,695,belgium
+3000,2011,Q3,Diseases of the skin and subcutaneous tissue,24,belgium
+3000,2011,Q3,Mental and behavioural disorders,278,belgium
+3000,2011,Q3,Neoplasms,2296,belgium
+3000,2011,Q4,Diseases of the circulatory system,2763,belgium
+3000,2011,Q4,Diseases of the nervous system,523,belgium
+3000,2011,Q4,Diseases of the respiratory system,894,belgium
+3000,2011,Q4,Diseases of the skin and subcutaneous tissue,21,belgium
+3000,2011,Q4,Mental and behavioural disorders,314,belgium
+3000,2011,Q4,Neoplasms,2489,belgium
+3000,2012,Q1,Diseases of the circulatory system,3341,belgium
+3000,2012,Q1,Diseases of the nervous system,630,belgium
+3000,2012,Q1,Diseases of the respiratory system,1299,belgium
+3000,2012,Q1,Diseases of the skin and subcutaneous tissue,29,belgium
+3000,2012,Q1,Mental and behavioural disorders,338,belgium
+3000,2012,Q1,Neoplasms,2407,belgium
+3000,2012,Q2,Diseases of the circulatory system,2648,belgium
+3000,2012,Q2,Diseases of the nervous system,494,belgium
+3000,2012,Q2,Diseases of the respiratory system,885,belgium
+3000,2012,Q2,Diseases of the skin and subcutaneous tissue,23,belgium
+3000,2012,Q2,Mental and behavioural disorders,269,belgium
+3000,2012,Q2,Neoplasms,2356,belgium
+3000,2012,Q3,Diseases of the circulatory system,2320,belgium
+3000,2012,Q3,Diseases of the nervous system,478,belgium
+3000,2012,Q3,Diseases of the respiratory system,795,belgium
+3000,2012,Q3,Diseases of the skin and subcutaneous tissue,32,belgium
+3000,2012,Q3,Mental and behavioural disorders,260,belgium
+3000,2012,Q3,Neoplasms,2259,belgium
+3000,2012,Q4,Diseases of the circulatory system,2731,belgium
+3000,2012,Q4,Diseases of the nervous system,525,belgium
+3000,2012,Q4,Diseases of the respiratory system,1036,belgium
+3000,2012,Q4,Diseases of the skin and subcutaneous tissue,26,belgium
+3000,2012,Q4,Mental and behavioural disorders,276,belgium
+3000,2012,Q4,Neoplasms,2346,belgium
+3000,2013,Q1,Diseases of the circulatory system,3138,belgium
+3000,2013,Q1,Diseases of the nervous system,588,belgium
+3000,2013,Q1,Diseases of the respiratory system,1448,belgium
+3000,2013,Q1,Diseases of the skin and subcutaneous tissue,31,belgium
+3000,2013,Q1,Mental and behavioural disorders,322,belgium
+3000,2013,Q1,Neoplasms,2509,belgium
+3000,2013,Q2,Diseases of the circulatory system,2680,belgium
+3000,2013,Q2,Diseases of the nervous system,456,belgium
+3000,2013,Q2,Diseases of the respiratory system,1106,belgium
+3000,2013,Q2,Diseases of the skin and subcutaneous tissue,19,belgium
+3000,2013,Q2,Mental and behavioural disorders,270,belgium
+3000,2013,Q2,Neoplasms,2356,belgium
+3000,2013,Q3,Diseases of the circulatory system,2325,belgium
+3000,2013,Q3,Diseases of the nervous system,444,belgium
+3000,2013,Q3,Diseases of the respiratory system,800,belgium
+3000,2013,Q3,Diseases of the skin and subcutaneous tissue,32,belgium
+3000,2013,Q3,Mental and behavioural disorders,280,belgium
+3000,2013,Q3,Neoplasms,2371,belgium
+3000,2013,Q4,Diseases of the circulatory system,2654,belgium
+3000,2013,Q4,Diseases of the nervous system,498,belgium
+3000,2013,Q4,Diseases of the respiratory system,964,belgium
+3000,2013,Q4,Diseases of the skin and subcutaneous tissue,18,belgium
+3000,2013,Q4,Mental and behavioural disorders,288,belgium
+3000,2013,Q4,Neoplasms,2362,belgium
+3000,2014,Q1,Diseases of the circulatory system,2835,belgium
+3000,2014,Q1,Diseases of the nervous system,490,belgium
+3000,2014,Q1,Diseases of the respiratory system,1169,belgium
+3000,2014,Q1,Diseases of the skin and subcutaneous tissue,27,belgium
+3000,2014,Q1,Mental and behavioural disorders,287,belgium
+3000,2014,Q1,Neoplasms,2341,belgium
+3000,2014,Q2,Diseases of the circulatory system,2395,belgium
+3000,2014,Q2,Diseases of the nervous system,463,belgium
+3000,2014,Q2,Diseases of the respiratory system,912,belgium
+3000,2014,Q2,Diseases of the skin and subcutaneous tissue,31,belgium
+3000,2014,Q2,Mental and behavioural disorders,267,belgium
+3000,2014,Q2,Neoplasms,2252,belgium
+3000,2014,Q3,Diseases of the circulatory system,2356,belgium
+3000,2014,Q3,Diseases of the nervous system,445,belgium
+3000,2014,Q3,Diseases of the respiratory system,774,belgium
+3000,2014,Q3,Diseases of the skin and subcutaneous tissue,25,belgium
+3000,2014,Q3,Mental and behavioural disorders,277,belgium
+3000,2014,Q3,Neoplasms,2417,belgium
+3000,2014,Q4,Diseases of the circulatory system,2758,belgium
+3000,2014,Q4,Diseases of the nervous system,535,belgium
+3000,2014,Q4,Diseases of the respiratory system,993,belgium
+3000,2014,Q4,Diseases of the skin and subcutaneous tissue,32,belgium
+3000,2014,Q4,Mental and behavioural disorders,331,belgium
+3000,2014,Q4,Neoplasms,2348,belgium
+3000,2015,Q1,Diseases of the circulatory system,3197,belgium
+3000,2015,Q1,Diseases of the nervous system,615,belgium
+3000,2015,Q1,Diseases of the respiratory system,1567,belgium
+3000,2015,Q1,Diseases of the skin and subcutaneous tissue,28,belgium
+3000,2015,Q1,Mental and behavioural disorders,420,belgium
+3000,2015,Q1,Neoplasms,2532,belgium
+3000,2015,Q2,Diseases of the circulatory system,2551,belgium
+3000,2015,Q2,Diseases of the nervous system,470,belgium
+3000,2015,Q2,Diseases of the respiratory system,951,belgium
+3000,2015,Q2,Diseases of the skin and subcutaneous tissue,26,belgium
+3000,2015,Q2,Mental and behavioural disorders,290,belgium
+3000,2015,Q2,Neoplasms,2331,belgium
+3000,2015,Q3,Diseases of the circulatory system,2299,belgium
+3000,2015,Q3,Diseases of the nervous system,498,belgium
+3000,2015,Q3,Diseases of the respiratory system,807,belgium
+3000,2015,Q3,Diseases of the skin and subcutaneous tissue,27,belgium
+3000,2015,Q3,Mental and behavioural disorders,324,belgium
+3000,2015,Q3,Neoplasms,2338,belgium
+3000,2015,Q4,Diseases of the circulatory system,2594,belgium
+3000,2015,Q4,Diseases of the nervous system,537,belgium
+3000,2015,Q4,Diseases of the respiratory system,933,belgium
+3000,2015,Q4,Diseases of the skin and subcutaneous tissue,26,belgium
+3000,2015,Q4,Mental and behavioural disorders,321,belgium
+3000,2015,Q4,Neoplasms,2454,belgium
+3000,2016,Q1,Diseases of the circulatory system,2771,belgium
+3000,2016,Q1,Diseases of the nervous system,555,belgium
+3000,2016,Q1,Diseases of the respiratory system,1208,belgium
+3000,2016,Q1,Diseases of the skin and subcutaneous tissue,41,belgium
+3000,2016,Q1,Mental and behavioural disorders,377,belgium
+3000,2016,Q1,Neoplasms,2472,belgium
+3000,2016,Q2,Diseases of the circulatory system,2433,belgium
+3000,2016,Q2,Diseases of the nervous system,429,belgium
+3000,2016,Q2,Diseases of the respiratory system,959,belgium
+3000,2016,Q2,Diseases of the skin and subcutaneous tissue,30,belgium
+3000,2016,Q2,Mental and behavioural disorders,312,belgium
+3000,2016,Q2,Neoplasms,2318,belgium
+3000,2016,Q3,Diseases of the circulatory system,2357,belgium
+3000,2016,Q3,Diseases of the nervous system,443,belgium
+3000,2016,Q3,Diseases of the respiratory system,808,belgium
+3000,2016,Q3,Diseases of the skin and subcutaneous tissue,34,belgium
+3000,2016,Q3,Mental and behavioural disorders,265,belgium
+3000,2016,Q3,Neoplasms,2353,belgium
+3000,2016,Q4,Diseases of the circulatory system,2676,belgium
+3000,2016,Q4,Diseases of the nervous system,497,belgium
+3000,2016,Q4,Diseases of the respiratory system,1038,belgium
+3000,2016,Q4,Diseases of the skin and subcutaneous tissue,25,belgium
+3000,2016,Q4,Mental and behavioural disorders,292,belgium
+3000,2016,Q4,Neoplasms,2388,belgium
+3000,2017,Q1,Diseases of the circulatory system,2896,belgium
+3000,2017,Q1,Diseases of the nervous system,652,belgium
+3000,2017,Q1,Diseases of the respiratory system,1496,belgium
+3000,2017,Q1,Diseases of the skin and subcutaneous tissue,32,belgium
+3000,2017,Q1,Mental and behavioural disorders,399,belgium
+3000,2017,Q1,Neoplasms,2387,belgium
+3000,2017,Q2,Diseases of the circulatory system,2339,belgium
+3000,2017,Q2,Diseases of the nervous system,485,belgium
+3000,2017,Q2,Diseases of the respiratory system,1013,belgium
+3000,2017,Q2,Diseases of the skin and subcutaneous tissue,35,belgium
+3000,2017,Q2,Mental and behavioural disorders,298,belgium
+3000,2017,Q2,Neoplasms,2240,belgium
+3000,2017,Q3,Diseases of the circulatory system,2216,belgium
+3000,2017,Q3,Diseases of the nervous system,439,belgium
+3000,2017,Q3,Diseases of the respiratory system,815,belgium
+3000,2017,Q3,Diseases of the skin and subcutaneous tissue,44,belgium
+3000,2017,Q3,Mental and behavioural disorders,281,belgium
+3000,2017,Q3,Neoplasms,2290,belgium
+3000,2017,Q4,Diseases of the circulatory system,2523,belgium
+3000,2017,Q4,Diseases of the nervous system,518,belgium
+3000,2017,Q4,Diseases of the respiratory system,1056,belgium
+3000,2017,Q4,Diseases of the skin and subcutaneous tissue,34,belgium
+3000,2017,Q4,Mental and behavioural disorders,331,belgium
+3000,2017,Q4,Neoplasms,2440,belgium
+4000,2009,Q1,Diseases of the circulatory system,808,belgium
+4000,2009,Q1,Diseases of the nervous system,104,belgium
+4000,2009,Q1,Diseases of the respiratory system,408,belgium
+4000,2009,Q1,Diseases of the skin and subcutaneous tissue,13,belgium
+4000,2009,Q1,Mental and behavioural disorders,94,belgium
+4000,2009,Q1,Neoplasms,615,belgium
+4000,2009,Q2,Diseases of the circulatory system,637,belgium
+4000,2009,Q2,Diseases of the nervous system,76,belgium
+4000,2009,Q2,Diseases of the respiratory system,225,belgium
+4000,2009,Q2,Diseases of the skin and subcutaneous tissue,9,belgium
+4000,2009,Q2,Mental and behavioural disorders,78,belgium
+4000,2009,Q2,Neoplasms,561,belgium
+4000,2009,Q3,Diseases of the circulatory system,578,belgium
+4000,2009,Q3,Diseases of the nervous system,93,belgium
+4000,2009,Q3,Diseases of the respiratory system,175,belgium
+4000,2009,Q3,Diseases of the skin and subcutaneous tissue,9,belgium
+4000,2009,Q3,Mental and behavioural disorders,62,belgium
+4000,2009,Q3,Neoplasms,590,belgium
+4000,2009,Q4,Diseases of the circulatory system,650,belgium
+4000,2009,Q4,Diseases of the nervous system,101,belgium
+4000,2009,Q4,Diseases of the respiratory system,249,belgium
+4000,2009,Q4,Diseases of the skin and subcutaneous tissue,5,belgium
+4000,2009,Q4,Mental and behavioural disorders,98,belgium
+4000,2009,Q4,Neoplasms,599,belgium
+4000,2010,Q1,Diseases of the circulatory system,737,belgium
+4000,2010,Q1,Diseases of the nervous system,120,belgium
+4000,2010,Q1,Diseases of the respiratory system,274,belgium
+4000,2010,Q1,Diseases of the skin and subcutaneous tissue,14,belgium
+4000,2010,Q1,Mental and behavioural disorders,62,belgium
+4000,2010,Q1,Neoplasms,578,belgium
+4000,2010,Q2,Diseases of the circulatory system,632,belgium
+4000,2010,Q2,Diseases of the nervous system,97,belgium
+4000,2010,Q2,Diseases of the respiratory system,233,belgium
+4000,2010,Q2,Diseases of the skin and subcutaneous tissue,6,belgium
+4000,2010,Q2,Mental and behavioural disorders,71,belgium
+4000,2010,Q2,Neoplasms,592,belgium
+4000,2010,Q3,Diseases of the circulatory system,583,belgium
+4000,2010,Q3,Diseases of the nervous system,97,belgium
+4000,2010,Q3,Diseases of the respiratory system,217,belgium
+4000,2010,Q3,Diseases of the skin and subcutaneous tissue,13,belgium
+4000,2010,Q3,Mental and behavioural disorders,78,belgium
+4000,2010,Q3,Neoplasms,624,belgium
+4000,2010,Q4,Diseases of the circulatory system,679,belgium
+4000,2010,Q4,Diseases of the nervous system,116,belgium
+4000,2010,Q4,Diseases of the respiratory system,264,belgium
+4000,2010,Q4,Diseases of the skin and subcutaneous tissue,13,belgium
+4000,2010,Q4,Mental and behavioural disorders,66,belgium
+4000,2010,Q4,Neoplasms,580,belgium
+4000,2011,Q1,Diseases of the circulatory system,602,belgium
+4000,2011,Q1,Diseases of the nervous system,103,belgium
+4000,2011,Q1,Diseases of the respiratory system,285,belgium
+4000,2011,Q1,Diseases of the skin and subcutaneous tissue,9,belgium
+4000,2011,Q1,Mental and behavioural disorders,69,belgium
+4000,2011,Q1,Neoplasms,566,belgium
+4000,2011,Q2,Diseases of the circulatory system,614,belgium
+4000,2011,Q2,Diseases of the nervous system,84,belgium
+4000,2011,Q2,Diseases of the respiratory system,232,belgium
+4000,2011,Q2,Diseases of the skin and subcutaneous tissue,5,belgium
+4000,2011,Q2,Mental and behavioural disorders,62,belgium
+4000,2011,Q2,Neoplasms,566,belgium
+4000,2011,Q3,Diseases of the circulatory system,579,belgium
+4000,2011,Q3,Diseases of the nervous system,78,belgium
+4000,2011,Q3,Diseases of the respiratory system,187,belgium
+4000,2011,Q3,Diseases of the skin and subcutaneous tissue,10,belgium
+4000,2011,Q3,Mental and behavioural disorders,68,belgium
+4000,2011,Q3,Neoplasms,557,belgium
+4000,2011,Q4,Diseases of the circulatory system,673,belgium
+4000,2011,Q4,Diseases of the nervous system,117,belgium
+4000,2011,Q4,Diseases of the respiratory system,260,belgium
+4000,2011,Q4,Diseases of the skin and subcutaneous tissue,12,belgium
+4000,2011,Q4,Mental and behavioural disorders,64,belgium
+4000,2011,Q4,Neoplasms,606,belgium
+4000,2012,Q1,Diseases of the circulatory system,688,belgium
+4000,2012,Q1,Diseases of the nervous system,138,belgium
+4000,2012,Q1,Diseases of the respiratory system,319,belgium
+4000,2012,Q1,Diseases of the skin and subcutaneous tissue,5,belgium
+4000,2012,Q1,Mental and behavioural disorders,118,belgium
+4000,2012,Q1,Neoplasms,616,belgium
+4000,2012,Q2,Diseases of the circulatory system,586,belgium
+4000,2012,Q2,Diseases of the nervous system,105,belgium
+4000,2012,Q2,Diseases of the respiratory system,206,belgium
+4000,2012,Q2,Diseases of the skin and subcutaneous tissue,8,belgium
+4000,2012,Q2,Mental and behavioural disorders,60,belgium
+4000,2012,Q2,Neoplasms,578,belgium
+4000,2012,Q3,Diseases of the circulatory system,579,belgium
+4000,2012,Q3,Diseases of the nervous system,123,belgium
+4000,2012,Q3,Diseases of the respiratory system,189,belgium
+4000,2012,Q3,Diseases of the skin and subcutaneous tissue,9,belgium
+4000,2012,Q3,Mental and behavioural disorders,111,belgium
+4000,2012,Q3,Neoplasms,557,belgium
+4000,2012,Q4,Diseases of the circulatory system,656,belgium
+4000,2012,Q4,Diseases of the nervous system,133,belgium
+4000,2012,Q4,Diseases of the respiratory system,260,belgium
+4000,2012,Q4,Diseases of the skin and subcutaneous tissue,6,belgium
+4000,2012,Q4,Mental and behavioural disorders,105,belgium
+4000,2012,Q4,Neoplasms,568,belgium
+4000,2013,Q1,Diseases of the circulatory system,649,belgium
+4000,2013,Q1,Diseases of the nervous system,141,belgium
+4000,2013,Q1,Diseases of the respiratory system,323,belgium
+4000,2013,Q1,Diseases of the skin and subcutaneous tissue,7,belgium
+4000,2013,Q1,Mental and behavioural disorders,111,belgium
+4000,2013,Q1,Neoplasms,587,belgium
+4000,2013,Q2,Diseases of the circulatory system,587,belgium
+4000,2013,Q2,Diseases of the nervous system,140,belgium
+4000,2013,Q2,Diseases of the respiratory system,224,belgium
+4000,2013,Q2,Diseases of the skin and subcutaneous tissue,5,belgium
+4000,2013,Q2,Mental and behavioural disorders,96,belgium
+4000,2013,Q2,Neoplasms,548,belgium
+4000,2013,Q3,Diseases of the circulatory system,514,belgium
+4000,2013,Q3,Diseases of the nervous system,110,belgium
+4000,2013,Q3,Diseases of the respiratory system,178,belgium
+4000,2013,Q3,Diseases of the skin and subcutaneous tissue,12,belgium
+4000,2013,Q3,Mental and behavioural disorders,80,belgium
+4000,2013,Q3,Neoplasms,553,belgium
+4000,2013,Q4,Diseases of the circulatory system,613,belgium
+4000,2013,Q4,Diseases of the nervous system,135,belgium
+4000,2013,Q4,Diseases of the respiratory system,234,belgium
+4000,2013,Q4,Diseases of the skin and subcutaneous tissue,8,belgium
+4000,2013,Q4,Mental and behavioural disorders,77,belgium
+4000,2013,Q4,Neoplasms,582,belgium
+4000,2014,Q1,Diseases of the circulatory system,604,belgium
+4000,2014,Q1,Diseases of the nervous system,130,belgium
+4000,2014,Q1,Diseases of the respiratory system,234,belgium
+4000,2014,Q1,Diseases of the skin and subcutaneous tissue,11,belgium
+4000,2014,Q1,Mental and behavioural disorders,95,belgium
+4000,2014,Q1,Neoplasms,562,belgium
+4000,2014,Q2,Diseases of the circulatory system,548,belgium
+4000,2014,Q2,Diseases of the nervous system,109,belgium
+4000,2014,Q2,Diseases of the respiratory system,219,belgium
+4000,2014,Q2,Diseases of the skin and subcutaneous tissue,7,belgium
+4000,2014,Q2,Mental and behavioural disorders,85,belgium
+4000,2014,Q2,Neoplasms,566,belgium
+4000,2014,Q3,Diseases of the circulatory system,473,belgium
+4000,2014,Q3,Diseases of the nervous system,99,belgium
+4000,2014,Q3,Diseases of the respiratory system,171,belgium
+4000,2014,Q3,Diseases of the skin and subcutaneous tissue,12,belgium
+4000,2014,Q3,Mental and behavioural disorders,88,belgium
+4000,2014,Q3,Neoplasms,544,belgium
+4000,2014,Q4,Diseases of the circulatory system,625,belgium
+4000,2014,Q4,Diseases of the nervous system,124,belgium
+4000,2014,Q4,Diseases of the respiratory system,239,belgium
+4000,2014,Q4,Diseases of the skin and subcutaneous tissue,2,belgium
+4000,2014,Q4,Mental and behavioural disorders,98,belgium
+4000,2014,Q4,Neoplasms,609,belgium
+4000,2015,Q1,Diseases of the circulatory system,684,belgium
+4000,2015,Q1,Diseases of the nervous system,155,belgium
+4000,2015,Q1,Diseases of the respiratory system,407,belgium
+4000,2015,Q1,Diseases of the skin and subcutaneous tissue,8,belgium
+4000,2015,Q1,Mental and behavioural disorders,131,belgium
+4000,2015,Q1,Neoplasms,597,belgium
+4000,2015,Q2,Diseases of the circulatory system,546,belgium
+4000,2015,Q2,Diseases of the nervous system,119,belgium
+4000,2015,Q2,Diseases of the respiratory system,214,belgium
+4000,2015,Q2,Diseases of the skin and subcutaneous tissue,7,belgium
+4000,2015,Q2,Mental and behavioural disorders,112,belgium
+4000,2015,Q2,Neoplasms,560,belgium
+4000,2015,Q3,Diseases of the circulatory system,589,belgium
+4000,2015,Q3,Diseases of the nervous system,107,belgium
+4000,2015,Q3,Diseases of the respiratory system,154,belgium
+4000,2015,Q3,Diseases of the skin and subcutaneous tissue,10,belgium
+4000,2015,Q3,Mental and behavioural disorders,116,belgium
+4000,2015,Q3,Neoplasms,531,belgium
+4000,2015,Q4,Diseases of the circulatory system,570,belgium
+4000,2015,Q4,Diseases of the nervous system,141,belgium
+4000,2015,Q4,Diseases of the respiratory system,198,belgium
+4000,2015,Q4,Diseases of the skin and subcutaneous tissue,14,belgium
+4000,2015,Q4,Mental and behavioural disorders,109,belgium
+4000,2015,Q4,Neoplasms,572,belgium
+4000,2016,Q1,Diseases of the circulatory system,622,belgium
+4000,2016,Q1,Diseases of the nervous system,133,belgium
+4000,2016,Q1,Diseases of the respiratory system,275,belgium
+4000,2016,Q1,Diseases of the skin and subcutaneous tissue,5,belgium
+4000,2016,Q1,Mental and behavioural disorders,112,belgium
+4000,2016,Q1,Neoplasms,580,belgium
+4000,2016,Q2,Diseases of the circulatory system,572,belgium
+4000,2016,Q2,Diseases of the nervous system,113,belgium
+4000,2016,Q2,Diseases of the respiratory system,210,belgium
+4000,2016,Q2,Diseases of the skin and subcutaneous tissue,8,belgium
+4000,2016,Q2,Mental and behavioural disorders,81,belgium
+4000,2016,Q2,Neoplasms,529,belgium
+4000,2016,Q3,Diseases of the circulatory system,528,belgium
+4000,2016,Q3,Diseases of the nervous system,131,belgium
+4000,2016,Q3,Diseases of the respiratory system,203,belgium
+4000,2016,Q3,Diseases of the skin and subcutaneous tissue,4,belgium
+4000,2016,Q3,Mental and behavioural disorders,95,belgium
+4000,2016,Q3,Neoplasms,539,belgium
+4000,2016,Q4,Diseases of the circulatory system,611,belgium
+4000,2016,Q4,Diseases of the nervous system,154,belgium
+4000,2016,Q4,Diseases of the respiratory system,268,belgium
+4000,2016,Q4,Diseases of the skin and subcutaneous tissue,10,belgium
+4000,2016,Q4,Mental and behavioural disorders,119,belgium
+4000,2016,Q4,Neoplasms,582,belgium
+4000,2017,Q1,Diseases of the circulatory system,625,belgium
+4000,2017,Q1,Diseases of the nervous system,140,belgium
+4000,2017,Q1,Diseases of the respiratory system,319,belgium
+4000,2017,Q1,Diseases of the skin and subcutaneous tissue,10,belgium
+4000,2017,Q1,Mental and behavioural disorders,134,belgium
+4000,2017,Q1,Neoplasms,559,belgium
+4000,2017,Q2,Diseases of the circulatory system,520,belgium
+4000,2017,Q2,Diseases of the nervous system,113,belgium
+4000,2017,Q2,Diseases of the respiratory system,211,belgium
+4000,2017,Q2,Diseases of the skin and subcutaneous tissue,6,belgium
+4000,2017,Q2,Mental and behavioural disorders,89,belgium
+4000,2017,Q2,Neoplasms,552,belgium
+4000,2017,Q3,Diseases of the circulatory system,503,belgium
+4000,2017,Q3,Diseases of the nervous system,114,belgium
+4000,2017,Q3,Diseases of the respiratory system,180,belgium
+4000,2017,Q3,Diseases of the skin and subcutaneous tissue,8,belgium
+4000,2017,Q3,Mental and behavioural disorders,101,belgium
+4000,2017,Q3,Neoplasms,572,belgium
+4000,2017,Q4,Diseases of the circulatory system,577,belgium
+4000,2017,Q4,Diseases of the nervous system,127,belgium
+4000,2017,Q4,Diseases of the respiratory system,217,belgium
+4000,2017,Q4,Diseases of the skin and subcutaneous tissue,13,belgium
+4000,2017,Q4,Mental and behavioural disorders,114,belgium
+4000,2017,Q4,Neoplasms,569,belgium
